@@ -2,7 +2,7 @@
 
 echo "This is test program"
 
-sleep 60
+sleep 67
 
 
 exit 0
