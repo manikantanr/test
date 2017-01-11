@@ -1,5 +1,6 @@
 #!/bin/bash
 
+exit 0
 echo "from bash first line"
 
 
